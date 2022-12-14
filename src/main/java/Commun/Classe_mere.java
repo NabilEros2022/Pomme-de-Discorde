@@ -1,4 +1,4 @@
-package Commun;
+package main.java.Commun;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import java.util.concurrent.TimeUnit;
 
-public class classemere {
+public class Classe_mere {
 
         public WebDriver driver;
 
@@ -35,4 +35,4 @@ public class classemere {
 
     }
 
-}
+
